@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkonecloudx_ui=self.webpackChunkonecloudx_ui||[]).push([[5438],{59606:a=>{a.exports=JSON.parse('{"tag":{"label":"about","permalink":"/docs/tags/about","allTagsPath":"/docs/tags","count":1,"items":[{"id":"team/about","title":"about","description":"<img","permalink":"/docs/team/about"}],"unlisted":false}}')}}]);
