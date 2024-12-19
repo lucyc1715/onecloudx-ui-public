@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkonecloudx_ui=self.webpackChunkonecloudx_ui||[]).push([[4731],{53587:e=>{e.exports=JSON.parse('{"tags":[{"label":"faq","permalink":"/onecloudx-ui-public/docs/tags/faq","count":1},{"label":"test","permalink":"/onecloudx-ui-public/docs/tags/test","count":1}]}')}}]);
